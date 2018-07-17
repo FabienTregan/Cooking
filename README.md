@@ -1,7 +1,7 @@
 Cooking
 =======
 
-Thing I cook for friends
+Things I cook for friends
 
 Why is this on github ?
 =======================
